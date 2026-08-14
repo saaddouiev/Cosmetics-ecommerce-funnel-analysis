@@ -40,7 +40,7 @@ and is cart abandonment recoverable?
 <img width="1298" height="450" alt="what_happens_to_abandoned_items" src="https://github.com/user-attachments/assets/0064029a-0b6f-4c44-8264-8a7cfe4d4eac" />
 
 ## Two theories I tested and disproved
-- Unbranded traffic drag down conversion: not supported by the data
+- Unbranded products drag down conversion: not supported by the data
 - High-volume brands underperform on conversion:  not supported either
 
 ## The insight
